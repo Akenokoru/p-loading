@@ -1,0 +1,24 @@
+{
+  "name": "p-loading",
+  "version": "1.0.0",
+  "description": "A JavaScript library of loading.",
+  "main": "rollup.config.js",
+  "dependencies": {
+    "rollup": "^2.33.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akenokoru/p-loading.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akenokoru/p-loading/issues"
+  },
+  "homepage": "https://github.com/Akenokoru/p-loading#readme"
+}
